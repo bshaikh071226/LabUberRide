@@ -14,5 +14,6 @@ Alex's total cost: $35.0
 ## Author
 Bilal Shaikh
 
-
+## Collaboration Acknowledgment
+This project was reviewed and edited by Chloe Sipe on GitHub
 
