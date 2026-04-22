@@ -1,5 +1,5 @@
 # Lab: Uber Ride
-Uber ride total cost 
+Cost of Uber ride 
 
 ## How to Run
 1. Open Intellij IDE
