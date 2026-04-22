@@ -1,4 +1,4 @@
-# LabUberRide
+# Lab: Uber Ride
 Uber ride total cost 
 
 ## How to Run
